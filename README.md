@@ -1,7 +1,7 @@
 ## <p align="center">Hi! Welcome to my github, my name is Manoela 👩‍💻 </p>
 
 ### About me
-I currently work as a Quality Assurance Engineer but I'm interested in the development area too!
+I currently work as a Data Engineer but I'm interested in the development area too!
 
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoelatimossi&layout=compact&langs_count=7&theme=omni"/>
